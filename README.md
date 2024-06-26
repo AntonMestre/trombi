@@ -16,7 +16,6 @@ The **Auto-trombi (Student Class Viewer)** is a Vue.js web interface designed to
 - **Switch Between Years**: Easily switch to view different class years.
 - **Filter by Last Name**: Filter students by the first letter of their last name.
 - **Add New Students**: Add new students to the class list.
-- **Alphabetical Structure**: UI structured by letters for easy navigation.
 
 ## Screenshots
 
